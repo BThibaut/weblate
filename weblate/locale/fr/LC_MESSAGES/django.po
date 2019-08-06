@@ -13,16 +13,15 @@ msgstr ""
 "Project-Id-Version: Weblate 3.8\n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
 "POT-Creation-Date: 2019-08-03 14:38+0000\n"
-"PO-Revision-Date: 2019-08-04 06:57+0000\n"
-"Last-Translator: Ldm Public <ldmpub@gmail.com>\n"
-"Language-Team: French <https://hosted.weblate.org/projects/weblate/master/fr/"
-">\n"
+"PO-Revision-Date: 2019-08-06 10:04+0000\n"
+"Last-Translator: Weblate Admin <tblairon@wanadev.fr>\n"
+"Language-Team: French <http://example.com/projects/octopod/test/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.8-dev\n"
+"X-Generator: Weblate 3.7.1\n"
 
 #: weblate/accounts/avatar.py:122
 msgctxt "No known user"
@@ -5087,7 +5086,7 @@ msgstr "Contribuez à <strong>%(project)s</strong>"
 
 #: weblate/templates/engage.html:17
 msgid "Hello & thank you for your interest"
-msgstr "Bonjour et merci de votre intérêt."
+msgstr "Bonjour et merci de votre intérêt"
 
 #: weblate/templates/engage.html:19
 #, python-format
@@ -5734,12 +5733,13 @@ msgid ""
 "%(from_user)s invites you to collaborate on the %(project_name)s translation "
 "project at %(site_title)s."
 msgstr ""
+"%(from_user)s vous a invité à collaborer sur la traduction du projet "
+"%(project_name)s sur %(site_title)s."
 
 #: weblate/templates/mail/invite_subject.txt:4
-#, fuzzy, python-format
-#| msgid "Your registration on %(site_title)s"
+#, python-format
 msgid "Invitation to %(site_title)s"
-msgstr "Votre inscription sur %(site_title)s"
+msgstr "Invitation sur %(site_title)s"
 
 #: weblate/templates/mail/merge_failure.html:7
 #, python-format
@@ -5921,12 +5921,12 @@ msgstr ""
 #: weblate/templates/mail/new_whiteboard_subject.txt:4
 #, python-format
 msgid "New whiteboard message on %(project)s"
-msgstr "Nouveau message sur le tableau blanc pour %(project)s."
+msgstr "Nouveau message sur le tableau blanc pour %(project)s"
 
 #: weblate/templates/mail/new_whiteboard_subject.txt:6
 #, python-format
 msgid "New whiteboard message at %(site_title)s"
-msgstr "Nouveau message sur le tableau blanc du site %(site_title)s."
+msgstr "Nouveau message sur le tableau blanc du site %(site_title)s"
 
 #: weblate/templates/mail/parse_error.html:7
 #, python-format
@@ -8350,10 +8350,8 @@ msgid "%(action)s at %(time)s on %(translation)s by %(user)s"
 msgstr "%(action)s a été effectué le %(time)s sur %(translation)s par %(user)s"
 
 #: weblate/trans/models/component.py:100
-#, fuzzy
-#| msgid "Contact us"
 msgid "Contact maintainers"
-msgstr "Nous contacter"
+msgstr "Contacter l'administration"
 
 #: weblate/trans/models/component.py:101
 msgid "Point to translation instructions URL"
