@@ -10295,6 +10295,12 @@ msgstr "Jelentések"
 msgid "Failed to dismiss configuration error!"
 msgstr "Nem sikerült eltüntetni a beállítási hibát!"
 
+#: weblate/wladmin/views.py:69
+msgid "I have %d apple"
+msgid_plural "I have %d apple"
+msgstr[0] ""
+msgstr[1] ""
+
 #~ msgid "Process"
 #~ msgstr "Folyamat"
 

@@ -11017,6 +11017,11 @@ msgstr "Laporan"
 msgid "Failed to dismiss configuration error!"
 msgstr "Gagal menghilangkan kesalahan konfigurasi!"
 
+#: weblate/wladmin/views.py:69
+msgid "I have %d apple"
+msgid_plural "I have %d apple"
+msgstr[0] ""
+
 #~ msgid "Process"
 #~ msgstr "Proses"
 

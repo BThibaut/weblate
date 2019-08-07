@@ -10012,6 +10012,11 @@ msgstr "보고"
 msgid "Failed to dismiss configuration error!"
 msgstr "구성 오류를 버리지 못했습니다!"
 
+#: weblate/wladmin/views.py:69
+msgid "I have %d apple"
+msgid_plural "I have %d apple"
+msgstr[0] ""
+
 #~ msgid "Process"
 #~ msgstr "처리"
 
