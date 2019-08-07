@@ -10618,6 +10618,11 @@ msgstr ""
 msgid "Failed to dismiss configuration error!"
 msgstr "Nhận thông báo về bất kỳ bản dịch nào"
 
+#: weblate/wladmin/views.py:69
+msgid "I have %d apple"
+msgid_plural "I have %d apple"
+msgstr[0] ""
+
 #, fuzzy
 #~| msgid "Secondary languages"
 #~ msgid "No language additions"

@@ -9989,6 +9989,13 @@ msgstr "Raporty"
 msgid "Failed to dismiss configuration error!"
 msgstr "Nie można odrzucić błędu konfiguracji!"
 
+#: weblate/wladmin/views.py:69
+msgid "I have %d apple"
+msgid_plural "I have %d apple"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
 #~ msgid "Process"
 #~ msgstr "Przetwarzaj"
 

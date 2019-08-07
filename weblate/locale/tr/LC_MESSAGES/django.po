@@ -9893,6 +9893,12 @@ msgstr "Bildirimler"
 msgid "Failed to dismiss configuration error!"
 msgstr "Yapılandırma hatası görmezden gelinemedi!"
 
+#: weblate/wladmin/views.py:69
+msgid "I have %d apple"
+msgid_plural "I have %d apple"
+msgstr[0] ""
+msgstr[1] ""
+
 #~ msgid "Process"
 #~ msgstr "İşlem"
 

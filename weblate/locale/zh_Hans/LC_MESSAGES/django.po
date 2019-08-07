@@ -10134,6 +10134,11 @@ msgstr "报告"
 msgid "Failed to dismiss configuration error!"
 msgstr "排除配置错误时失败！"
 
+#: weblate/wladmin/views.py:69
+msgid "I have %d apple"
+msgid_plural "I have %d apple"
+msgstr[0] ""
+
 #~ msgid "Process"
 #~ msgstr "开始处理"
 

@@ -10280,6 +10280,12 @@ msgstr "Rapporten"
 msgid "Failed to dismiss configuration error!"
 msgstr "Configuratiefout verwerpen mislukt!"
 
+#: weblate/wladmin/views.py:69
+msgid "I have %d apple"
+msgid_plural "I have %d apple"
+msgstr[0] ""
+msgstr[1] ""
+
 #~ msgid "Process"
 #~ msgstr "Verwerken"
 
