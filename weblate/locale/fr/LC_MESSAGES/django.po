@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: Weblate 3.8\n"
 "Report-Msgid-Bugs-To: weblate@lists.cihar.com\n"
 "POT-Creation-Date: 2019-08-03 14:38+0000\n"
-"PO-Revision-Date: 2019-08-06 10:04+0000\n"
+"PO-Revision-Date: 2019-08-07 13:25+0000\n"
 "Last-Translator: Weblate Admin <tblairon@wanadev.fr>\n"
 "Language-Team: French <http://example.com/projects/octopod/test/fr/>\n"
 "Language: fr\n"
@@ -8666,7 +8666,7 @@ msgstr "lié"
 #: weblate/trans/models/component.py:605
 #, python-format
 msgid "This component is linked to the %(target)s repository."
-msgstr "Ce composant est lié au dépôt %(target)s"
+msgstr "Ce composant est lié au dépôt %(target)s."
 
 #: weblate/trans/models/component.py:762
 msgid ""
@@ -9531,7 +9531,7 @@ msgstr "Échec du traitement du formulaire !"
 
 #: weblate/trans/views/edit.py:152 weblate/trans/views/edit.py:451
 msgid "No string matched your search!"
-msgstr "Aucun résultat pour cette recherche"
+msgstr "Aucun résultat pour cette recherche !"
 
 #: weblate/trans/views/edit.py:176
 msgid "Your suggestion is empty!"
@@ -9561,7 +9561,7 @@ msgid ""
 "{0}"
 msgstr ""
 "La traduction a été enregistrée mais il y a de nouvelles vérifications en "
-"erreur : {0}."
+"erreur : {0}"
 
 #: weblate/trans/views/edit.py:306
 msgid "Invalid merge request!"
@@ -10108,8 +10108,8 @@ msgstr "Impossible d’ignorer l’erreur de configuration !"
 #: weblate/wladmin/views.py:69
 msgid "I have %d apple"
 msgid_plural "I have %d apple"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "J'ai %d pomme"
+msgstr[1] "J'ai %d pommes"
 
 #~ msgid "Process"
 #~ msgstr "Exécuter"
